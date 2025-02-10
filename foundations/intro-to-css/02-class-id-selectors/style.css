@@ -1,0 +1,16 @@
+.pclass {
+    background-color: lightpink; 
+    font-family: Verdana, Dejavu Sans, sans-serif;
+}
+#divid {
+    color: blue;
+    font-size: 36px;
+}
+.pclass.c {
+    font-size: 24px;
+}
+#divid2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-style: bold;
+}
